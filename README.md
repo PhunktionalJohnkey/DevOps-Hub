@@ -6,6 +6,8 @@ The place for DevOps folks :)
 
   1. [Tools and Projects](#tools-projects)
   1. [Books](#books)
+  1. [Cheat Sheets](#cheatsheets)
+  1. [Jenkins](#jenkins)
 
 ### Tools and Projects:
 
@@ -27,6 +29,14 @@ The place for DevOps folks :)
 
 1. [Nagios](https://www.nagios.org)
 
+### Cheat Sheets
+
+1. [Python](https://www.pythonsheets.com/)
+
 ### Books
 
 * The DevOps 2.0 Toolkit
+
+### Jenkins
+
+* [Job DSL Playground](http://job-dsl.herokuapp.com)
