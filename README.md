@@ -1,4 +1,4 @@
-#DevOps Hub
+# DevOps Hub
 
 The place for DevOps folks :)
 
@@ -6,10 +6,10 @@ The place for DevOps folks :)
 
   1. [Tools and Projects](#tools-projects)
   1. [Books](#books)
-  1. [Cheat Sheets](#cheatsheets)
   1. [Jenkins](#jenkins)
+  1. [Programming languages](#prog_lang)
 
-### Tools and Projects:
+### Tools and Projects
 
 ###### Configuration Management:
 
@@ -27,11 +27,8 @@ The place for DevOps folks :)
 
 ###### Monitoring
 
-1. [Nagios](https://www.nagios.org)
-
-### Cheat Sheets
-
-1. [Python](https://www.pythonsheets.com/)
+* [Nagios](https://www.nagios.org)
+* [Icinga](https://www.icinga.com)
 
 ### Books
 
@@ -40,3 +37,16 @@ The place for DevOps folks :)
 ### Jenkins
 
 * [Job DSL Playground](http://job-dsl.herokuapp.com)
+* [Jenkins Scripts](https://github.com/jenkinsci/jenkins-scripts)
+
+### Programming languages
+
+###### Python
+
+1. [Cheat Sheets](https://www.pythonsheets.com)
+
+###### Groovy
+
+1. [Official site](http://groovy-lang.org)
+1. [Playground](https://groovy-playground.appspot.com)
+1. [Groovy Tutorial for Java Developers](https://www.timroes.de/2015/06/27/groovy-tutorial-for-java-developers)
